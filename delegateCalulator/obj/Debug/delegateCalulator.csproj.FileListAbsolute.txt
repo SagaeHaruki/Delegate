@@ -1,0 +1,11 @@
+C:\Users\Chtholly\Documents\Tutorial\delegateCalulator\bin\Debug\delegateCalulator.exe.config
+C:\Users\Chtholly\Documents\Tutorial\delegateCalulator\bin\Debug\delegateCalulator.exe
+C:\Users\Chtholly\Documents\Tutorial\delegateCalulator\bin\Debug\delegateCalulator.pdb
+C:\Users\Chtholly\Documents\Tutorial\delegateCalulator\obj\Debug\delegateCalulator.csproj.AssemblyReference.cache
+C:\Users\Chtholly\Documents\Tutorial\delegateCalulator\obj\Debug\delegateCalulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chtholly\Documents\Tutorial\delegateCalulator\obj\Debug\delegateCalulator.Properties.Resources.resources
+C:\Users\Chtholly\Documents\Tutorial\delegateCalulator\obj\Debug\delegateCalulator.csproj.GenerateResource.cache
+C:\Users\Chtholly\Documents\Tutorial\delegateCalulator\obj\Debug\delegateCalulator.csproj.CoreCompileInputs.cache
+C:\Users\Chtholly\Documents\Tutorial\delegateCalulator\obj\Debug\delegateCalulator.exe
+C:\Users\Chtholly\Documents\Tutorial\delegateCalulator\obj\Debug\delegateCalulator.pdb
+C:\Users\Chtholly\Documents\Tutorial\delegateCalulator\obj\Debug\delegateCalulator.Form1.resources
