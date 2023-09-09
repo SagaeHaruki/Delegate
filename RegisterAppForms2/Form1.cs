@@ -58,7 +58,15 @@ namespace RegisterAppForms
                 Form2 fmr = new Form2();
                 if (fmr.ShowDialog() == DialogResult.OK)
                 {
-
+                    bx_adrs.Text = "";
+                    bx_ln.Text = "";
+                    bx_fn.Text = "";
+                    bx_mn.Text = "";
+                    cbx_crs.SelectedItem = null;
+                    bx_ag.Text = "";
+                    bx_cnt.Text = "";
+                    bx_std.Text = "";
+                    bx_adrs.Text = "";
                 }
             }
         }
